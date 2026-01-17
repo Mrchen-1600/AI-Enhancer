@@ -17,6 +17,7 @@
 // @grant        GM_registerMenuCommand
 // @grant        GM_xmlhttpRequest
 // @homepageURL  https://github.com/Mrchen-1600/AI-Enhancer
+// @license      Apache-2.0
 // ==/UserScript==
 
 (function() {
