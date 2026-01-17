@@ -5,7 +5,7 @@
 <div align="center">
     <font size="4">
         <strong>
-            <a href="https://greasyfork.org/zh-CN/scripts/563034-gemini-%E5%A2%9E%E5%BC%BA%E5%8A%A9%E6%89%8B-v1-0">脚本安装</a> | 
+            <a href="https://greasyfork.org/zh-CN/scripts/563055-ai-%E5%A2%9E%E5%BC%BA%E5%8A%A9%E6%89%8B">脚本安装</a> | 
             <a href="https://github.com/Mrchen-1600/AI-Enhancer/blob/main/README.md">使用说明</a> |
             <a href="https://github.com/Mrchen-1600/AI-Enhancer/issues">问题反馈</a>
         </strong>
@@ -124,7 +124,7 @@
 1. **安装管理器**：确保你的浏览器已安装 [Tampermonkey](https://www.google.com/search?q=https://www.tampermonkey.net/) 扩展。
 
 2. **安装脚本**：
-   - **方式 A (推荐)**：[点击此处安装脚本](https://greasyfork.org/zh-CN/scripts/563034-gemini-%E5%A2%9E%E5%BC%BA%E5%8A%A9%E6%89%8B-v1-0)
+   - **方式 A (推荐)**：[点击此处安装脚本](https://greasyfork.org/zh-CN/scripts/563055-ai-%E5%A2%9E%E5%BC%BA%E5%8A%A9%E6%89%8B)
    - **方式 B**：前往 [Greasy Fork](https://greasyfork.org/zh-CN) 搜索 "AI 增强助手" （作者：Mrchen1600）进行安装。
    
 3. **使用**：打开任意支持的 AI 网站，即可在右侧看到悬浮操作按钮。
